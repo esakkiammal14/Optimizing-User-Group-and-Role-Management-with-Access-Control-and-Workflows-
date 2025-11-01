@@ -1,0 +1,2 @@
+# Optimizing-User-Group-and-Role-Management-with-Access-Control-and-Workflows-
+This project implements a structured and secure approach to user, group and role management in ServiceNow. It establishes clear access controls, role-based workflows and automated approvals to enhance efficiency, accountability, and data security. The system ensures proper permissions and streamlined task management throughout the project lifecycle
